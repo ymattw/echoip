@@ -67,7 +67,8 @@ $ curl ifconfig.co/port/80
 {
   "ip": "127.0.0.1",
   "port": 80,
-  "reachable": false
+  "reachable": false,
+  "status": "refused"
 }
 ```
 
